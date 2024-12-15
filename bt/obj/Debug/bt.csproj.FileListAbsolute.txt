@@ -1,0 +1,15 @@
+D:\from wsc\bt\bt\bin\Debug\bt.exe.config
+D:\from wsc\bt\bt\bin\Debug\bt.exe
+D:\from wsc\bt\bt\bin\Debug\bt.pdb
+D:\from wsc\bt\bt\bin\Debug\EntityFramework.dll
+D:\from wsc\bt\bt\bin\Debug\EntityFramework.SqlServer.dll
+D:\from wsc\bt\bt\bin\Debug\EntityFramework.xml
+D:\from wsc\bt\bt\bin\Debug\EntityFramework.SqlServer.xml
+D:\from wsc\bt\bt\obj\Debug\bt.csproj.AssemblyReference.cache
+D:\from wsc\bt\bt\obj\Debug\bt.Properties.Resources.resources
+D:\from wsc\bt\bt\obj\Debug\bt.Quanlysinhvien.resources
+D:\from wsc\bt\bt\obj\Debug\bt.csproj.GenerateResource.cache
+D:\from wsc\bt\bt\obj\Debug\bt.csproj.CoreCompileInputs.cache
+D:\from wsc\bt\bt\obj\Debug\bt.csproj.Up2Date
+D:\from wsc\bt\bt\obj\Debug\bt.exe
+D:\from wsc\bt\bt\obj\Debug\bt.pdb
